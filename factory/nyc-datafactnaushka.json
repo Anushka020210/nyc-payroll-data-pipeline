@@ -1,0 +1,9 @@
+{
+	"name": "nyc-datafactnaushka",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d14e0b80-cd62-4231-81ae-dfa737bdd3ee",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
